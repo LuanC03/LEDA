@@ -5,6 +5,7 @@
 	<groupId>br.edu.ufcg.ccc</groupId>
 	<artifactId>submission</artifactId>
 	<version>1.0</version>
+	<packaging>jar</packaging>
 	<name>Submissao de roteiro</name>
 
 <pluginRepositories>
@@ -82,12 +83,9 @@
 						</goals>
 						<configuration>
 							<!-- insira sua matricula -->
-							<matricula>INSIRA SEU NUMERO DE MATRICULA</matricula>
-							<!-- insira o ID correto da atividade e a turma -->
-							<roteiro>R0X-0X</roteiro>
 							<matricula>118110602</matricula>
 							<!-- insira o ID correto da atividade e a turma -->
-							<roteiro>R10-01</roteiro>
+							<roteiro>R14-01</roteiro>
 							<!-- NÃO MODIFIQUE AS TAGS ABAIXO -->
 							<semestre>2018.1</semestre>
 							<url>http://150.165.85.29:81/submitAtividade</url>
